@@ -15,3 +15,11 @@ Table [Campaigns of selected profile] {
 
 3 clickable tables, which, when you click on one of the rows, go through the structure to the selected entity.
 Implemented sorting, filtering and pagination for each of the tables, global search. 
+
+Screenshot:
+
+<img width="1128" alt="image" src="https://github.com/petrov-hillel/amazon-test/assets/104019602/d94fa529-539d-4b18-a898-669407990f7b">
+
+Video:
+
+[a link](https://streamable.com/jz9pwp)
