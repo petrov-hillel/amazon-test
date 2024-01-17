@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  @apply bg-slate-400
+}
+a {
+  display: contents;
+  color: white;
+}
+a:hover {
+  @apply text-slate-600
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.select-none {
+  user-select: none;
+}
+
+tr {
+  color: white;
+  text-align: center;
+}
+
+.btn {
+  @apply text-white text-xl py-4 px-8 border-2 border-solid border-white block rounded-xl
+}
+
+.btn-small {
+  @apply text-white text-sm py-2 px-4 border border-solid border-white block rounded-lg hover:bg-slate-600
+}
+
+.filter-input {
+  @apply p-1 border shadow rounded text-black
+}
+
