@@ -22,4 +22,4 @@ Screenshot:
 
 Video:
 
-[a link](https://streamable.com/jz9pwp)
+[Link to the video](https://streamable.com/jz9pwp)
