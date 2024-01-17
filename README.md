@@ -22,4 +22,4 @@ Screenshot:
 
 Video:
 
-[Link to the video](https://streamable.com/jz9pwp)
+[Link to the video](https://vimeo.com/903724217?share=copy)
